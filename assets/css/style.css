@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bokor&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Lexend+Deca:wght@100..900&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Righteous&family=Sawarabi+Gothic&display=swap');
+
+* {
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.abril-fatface {
+  font-family: "Abril Display";
+  src: url(./assets/font/Abril_Display_SemiBold.otf) format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.bg-gradient {
+  background: linear-gradient(291.92deg, #F99F55 25.32%, #4C57FF 80.04%);
+}
+
+.accordion-content {
+  overflow: hidden;
+  transition: 300ms ease;
+}
